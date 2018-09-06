@@ -1,2 +1,3 @@
 Hello
 Welcome to git example
+be good do good
